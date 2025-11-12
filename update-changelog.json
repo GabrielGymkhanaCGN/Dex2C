@@ -1,0 +1,13 @@
+{
+  "latestVersion": "5.0.2",
+  "latestVersionCode": "2008210017",
+  "url": "https://www.baitussaadah.web.id",
+  "releaseNotes": [
+    "* Fix Force Close",
+    "* Fix Termux Library",
+    "* Fix Dex2C",
+    "* Fix Jiagu Protection",
+    "* Fix Updater",
+    "* Add Backup Shortcut"
+  ]
+}
